@@ -1,6 +1,6 @@
 Name:		texlive-baskervillef
 Version:	55475
-Release:	1
+Release:	2
 Summary:	Fry's Baskerville look-alike, with math support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/baskervillef
