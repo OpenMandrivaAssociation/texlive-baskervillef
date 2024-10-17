@@ -3,7 +3,7 @@ Version:	55475
 Release:	2
 Summary:	Fry's Baskerville look-alike, with math support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/baskervillef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/baskervillef
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/baskervillef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/baskervillef.doc.r%{version}.tar.xz
